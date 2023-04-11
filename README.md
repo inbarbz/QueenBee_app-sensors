@@ -1,4 +1,16 @@
 
+### The main filter code file is on 
+<code>
+streamlit_app.py
+ </code>
+
+### Thesensors code include:
+<code>
+  UV_sensor_function_test.ino
+  db_test1.ino
+  </code>
+
+
 ### To install
 <code>
 pip install -r requirements.txt
@@ -25,7 +37,7 @@ the file:
 runOnSave = true
 </code>
 
-### To execute
+### To run our filter please enter the following in yout VisualSudio terminal:
 <code>
 streamlit run streamlit_app.py 
 </code>
